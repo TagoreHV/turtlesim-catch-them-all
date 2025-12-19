@@ -1,4 +1,4 @@
-# Turtlesim Catch Them All 🐢🎯
+# Turtlesim Catch Them All 
 
 A ROS 2 project that controls turtlesim to detect, chase, and kill spawned turtles automatically.
 
@@ -17,3 +17,4 @@ A ROS 2 project that controls turtlesim to detect, chase, and kill spawned turtl
 colcon build
 source install/setup.bash
 ros2 launch my_robot_bringup turtlesim_catch_them_all.launch.xml
+
